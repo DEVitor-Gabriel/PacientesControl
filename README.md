@@ -5,7 +5,7 @@ Projeto com objetivo de realizar o controle de paciente e realizar o calculo de 
 ## 🚀 Começando
 
 Para obter o código na sua máquina você precisará criar uma pasta, no local desejado, abrir o terminal Git Bash na pasta em questão e realizar o seguinte comando:<br>
-git clone &&&&&&&&&&
+git clone https://github.com/DEVitor-Gabriel/PacientesControl.git
 
 ### 📋 Pré-requisitos
 
